@@ -1,2 +1,3 @@
 # zs-pkg-go-testing
-ZarishSphere shared Go library: go-testing
+
+Generated directly from internal PRD specification.
